@@ -1,4 +1,4 @@
-This is the reposotory for the python code used for rumour mining SemEval 2017 Task 8
+This is the repository for the python code used for rumour mining SemEval 2017 Task 8
 
 http://alt.qcri.org/semeval2017/
 
